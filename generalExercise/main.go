@@ -23,4 +23,7 @@ func main() {
 	fmt.Printf("%x\n", sum.Sum(nil))
 
 	loop()
+	main2()
+	arrayM()
+	sliceM()
 }
